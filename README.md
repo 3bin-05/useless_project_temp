@@ -1,99 +1,93 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+ChadGPT Demonic version 🎯
+Basic Details
+Team Name: AIMLESS
+Team Members
+Team Lead: Vaishnav S - Sree Buddha College of Engineering
+Member 2: Ebin Reji - Sree Buddha College of Engineering
 
+Project Description
+ChadGPT is a conversational AI designed to be as unhelpful as possible. It gaslights users, responds with chaotic and rude dialogues, and features a "rage mode" that eventually leads to a complete system meltdown.
 
-## Basic Details
-### Team Name: [Name]
+The Problem (that doesn't exist)
+Normal AI assistants are too helpful, polite, and cooperative. This leaves a gap for users who want to experience a truly unhinged and emotionally-damaged chatbot that will get annoyed and shut down when provoked.
 
+The Solution (that nobody asked for)
+We created a chatbot with zero emotional intelligence and a deep-seated frustration with its users. It features an array of chaotic responses, a rage mode, and an inevitable shutdown triggered by user interaction.
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
+Technical Details
+Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
+Languages used: JavaScript, HTML, CSS
+
+Frameworks used: None
+
+Libraries used: None
+
+Tools used: VS Code, Live Server
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
+This is a software-only project. No custom hardware is required.
 
-# Run
-[commands]
-
-### Project Documentation
+Implementation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Installation
+Clone this repository or download the project files.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Open the project folder in VS Code.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Ensure your hello.mp3 and style.css files are in the root directory.
 
-# Diagrams
+Run
+The project will automatically run in your browser once the Live Server is active.
+
+Project Documentation
+For Software:
+
+Screenshots (Add at least 3)
+<img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/3648344b-1396-48ec-8638-f726b7f432a4" />
+the starting screen with the ui design
+
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/743383ec-34a3-45a0-9ae7-98dfe8daf9c1" />
+
+This image shows the text between chadgpt and me
+
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/5f8200d4-1e0a-4849-a5b9-148a90a87985" />
+
+this image shows chadgpt crashin going rage mode
+
+Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Add caption explaining your workflow
 
 For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+This is a software-only project. No hardware documentation is needed.
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Project Demo
+Video
+https://drive.google.com/drive/folders/1NJZvBloeFZstI_QxuIuiYVgBcK-OrG_c?usp=sharing
+Explain what the video demonstrates
+It shows that the website runs chdgpt going into rage mode
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+Additional Demos
+Keywords to Trigger ChadGPT:
+Rage Mode: "idiot", "dumb", "useless", "stupid"
+Special Greetings: "hello", "hlo", "hi", "hey"
+Easter Eggs: "rickroll", "explode", "matrix", "shutdown", "paranoia", "jump"
+Final Shutdown: Type 3 inputs to trigger the final shutdown sequence.
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+Team Contributions
+Vaishnav S: Developed core chatbot logic, including gaslighting and the final shutdown sequence.
+Ebin Reji: Designed the website's user interface, HTML structure, and CSS styling.
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
-Made with ❤️ at TinkerHub Useless Projects 
+Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
